@@ -1,0 +1,14 @@
+IMPORTANT NOTE: THIS REPOSITORY WILL NOT CONTAIN THE DOWNLOAD FOR THIS BOT. THIS BOT IS STRICTLY CLOSED SOURCE, BUT UPDATES/BLOGS WILL BE POSTED HERE - AS I AM STILL RELATIVELY NEW TO GIT, I DO NOT KNOW OF A WAY TO APPROPRIATELY DISPLAY THIS BOTS ACTIVITY IN TERMS OF DEVELOPMENT.
+
+# Major Dev-blog
+## Planned Features
+Hot-fixes/Small Feature Adjustments
+> Fixing ticket/register user interactions as stated above this post
+> Reworking "/teamlist" as stated above this post.
+> Fixing spotify api grabber
+> Overall optimization to prevent audio lag/stutter upon song queuing
+
+Major Additions/Adjustments
+> (W.I.P On Functionality) Server Transcript request - Request your server data with information including: set manager roles, welcome channel/farewell channel, logs channels, social media links/channels, team data such as scores and overall leaderboard positions (etc.), ticket/registration transcripting, along with any other pertinent data that would be important when the bot gets updates, and you want to quickly restore data.
+
+> (W.I.P On Functionality) Anti-Nuker - I plan on attempting discords best anti-nuking system using this function, where in worst-case-scenario, upon suspicious detection, it will bypass any set bot managerial role(s) and automatically remove any and/or all roles from suspicious accounts. It will then send a report-log to a dedicated channel that you may set, where you will then be given the option within a text-modal to restore the flagged users permissions (marking the flag as resolved).
